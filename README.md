@@ -34,10 +34,14 @@ pip install -r requirements.txt
 Create a `.env` file:
 
 ```env
+OPENAI_API_KEY=  openai key
+model_name= hugging face model_name
+openai_model = openai_model name
+google_model = google_model name
 OPENAI_API_KEY=your_openai_key
 QDRANT_URL=http://localhost:6333
-model_name=sentence-transformers/all-MiniLM-L6-v2
 openai_model=gpt-3.5-turbo
+TOKENIZERS_PARALLELISM=false
 ```
 
 ---
