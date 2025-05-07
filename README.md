@@ -92,10 +92,14 @@ docker run -p 8000:8000 semantic-search-engine
 
 ---
 
+## Project Diagram
+
+![IMAGE 2025-05-04 21:30:06](https://github.com/user-attachments/assets/2efa4d8d-8f02-4f77-b9e8-51196f5b7143)
+![IMAGE 2025-05-04 21:30:12](https://github.com/user-attachments/assets/76131080-e5eb-47fa-a7f2-7627abe86306)
+
 
 ## License
 
 MIT License
 
-![IMAGE 2025-05-04 21:30:06](https://github.com/user-attachments/assets/2efa4d8d-8f02-4f77-b9e8-51196f5b7143)
-![IMAGE 2025-05-04 21:30:12](https://github.com/user-attachments/assets/76131080-e5eb-47fa-a7f2-7627abe86306)
+
